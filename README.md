@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pragati Kabra
 - 👀 I’m interested in javascript and react   
-- 🌱 I’m currently learning react   
 - 💞️ I’m looking to collaborate on any web-dev project
 - 📫 You can contact me with given e-mail address kabrapragati345@gmail.com
 
